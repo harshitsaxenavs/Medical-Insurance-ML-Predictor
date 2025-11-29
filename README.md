@@ -64,7 +64,7 @@ Conclusion: Random Forest performed best.
 git clone https://github.com/harshitsaxenavs/Medical-Insurance-ML-Predictor.git
 cd Medical-Insurance-ML-Predictor
 pip install pandas numpy seaborn matplotlib scikit-learn scipy
-jupyter notebook project1.ipynb
+jupyter notebook insurance.ipynb
 ```
 
 ## 📈 Future Improvements
